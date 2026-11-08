@@ -120,7 +120,7 @@ export default function HomePage() {
             Choose a service and book a convenient time.
           </p>
 
-         <Link
+          <Link
   href="/services"
   style={{ color: "#ffffff" }}
   className="mt-8 inline-block rounded-lg bg-slate-900 px-7 py-4 font-bold hover:bg-slate-800"
